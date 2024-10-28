@@ -1,0 +1,6 @@
+git init
+git add Nayla_Azizah.txt
+git status
+git commit -m "first commit"
+git status
+git log
